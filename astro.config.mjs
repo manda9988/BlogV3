@@ -2,20 +2,19 @@ import mdx from "@astrojs/mdx";
 import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
 import tailwind from "@astrojs/tailwind";
-import AutoImport from "astro-auto-import";
-import { defineConfig, squooshImageService } from "astro/config";
+// import AutoImport from "astro-auto-import";
+import { defineConfig } from "astro/config";
 import remarkCollapse from "remark-collapse";
 import remarkToc from "remark-toc";
 import config from "./src/config/config.json";
+import * as sass from "sass"; // Correction de l'importation
 
 // https://astro.build/config
 export default defineConfig({
   site: config.site.base_url ? config.site.base_url : "http://examplesite.com",
   base: config.site.base_path ? config.site.base_path : "/",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
-  image: {
-    service: squooshImageService(),
-  },
+
   integrations: [
     react(),
     sitemap(),
@@ -24,17 +23,17 @@ export default defineConfig({
         applyBaseStyles: false,
       },
     }),
-    AutoImport({
-      imports: [
-        "@/shortcodes/Button",
-        "@/shortcodes/Accordion",
-        "@/shortcodes/Notice",
-        "@/shortcodes/Video",
-        "@/shortcodes/Youtube",
-        "@/shortcodes/Tabs",
-        "@/shortcodes/Tab",
-      ],
-    }),
+    // AutoImport({
+    //   imports: [
+    //     "@/shortcodes/Button",
+    //     "@/shortcodes/Accordion",
+    //     "@/shortcodes/Notice",
+    //     "@/shortcodes/Video",
+    //     "@/shortcodes/Youtube",
+    //     "@/shortcodes/Tabs",
+    //     "@/shortcodes/Tab",
+    //   ],
+    // }),
     mdx(),
   ],
   markdown: {
@@ -52,5 +51,15 @@ export default defineConfig({
       wrap: true,
     },
     extendDefaultPlugins: true,
+  },
+
+  vite: {
+    css: {
+      preprocessorOptions: {
+        scss: {
+          implementation: sass, // Utilise l'import ES module
+        },
+      },
+    },
   },
 });

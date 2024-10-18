@@ -1,11 +1,15 @@
-.btn {
-  @apply inline-block rounded-lg border px-6 py-3 font-semibold transition;
-}
+// buttons.scss
 
-.btn-primary {
-  @apply bg-primary text-white hover:text-white;
-}
+@layer components {
+  .btn {
+    @apply inline-block rounded-lg border px-6 py-3 font-semibold transition;
+  }
 
-.btn-outline-primary {
-  @apply border-primary bg-transparent hover:bg-primary hover:text-white;
+  .btn-primary {
+    @apply bg-primary text-white hover:text-white;
+  }
+
+  .btn-outline-primary {
+    @apply border-primary bg-transparent hover:bg-primary hover:text-white;
+  }
 }
