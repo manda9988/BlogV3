@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Blog_",
+    "title": "Blog.",
     "base_url": "https://bookworm-light-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
@@ -19,12 +19,12 @@
   "metadata": {
     "meta_author": "Themefisher",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Blog_"
+    "meta_description": "Blog."
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023. Vincent Achy. Blog_"
+    "copyright": "Copyright © 2023. Vincent Achy. Blog."
   },
 
   "contactinfo": {
