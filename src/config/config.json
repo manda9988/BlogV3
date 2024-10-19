@@ -1,10 +1,10 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
+    "title": "Blog_",
     "base_url": "https://bookworm-light-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/b3.png",
     "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "34",
@@ -19,17 +19,17 @@
   "metadata": {
     "meta_author": "Themefisher",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Bookworm Light Astro Blog Template"
+    "meta_description": "Blog_"
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2023. Vincent Achy. Blog_"
   },
 
   "contactinfo": {
-    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
-    "email": "info@bookworm.org",
+    "address": "55 rue Jean Semanaz <br/> Paris, 75001",
+    "email": "infolorem@ipsum.org",
     "phone": "+800 567 1234"
   }
 }
