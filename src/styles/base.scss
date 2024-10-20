@@ -22,10 +22,10 @@
   .h1 {
     @apply text-h1-sm md:text-h1;
   }
-
+  // Modification spécifique pour h2
   h2,
   .h2 {
-    @apply text-h2-sm md:text-h2;
+    @apply text-2xl md:text-3xl  font-semibold;
   }
 
   h3,
