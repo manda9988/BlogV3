@@ -1,6 +1,6 @@
 ---
-title: John Doe
-image: /images/authors/john-doe.jpg
+title: Max Green
+image: /images/authors/max-green.png
 description: this is meta description
 social:
   facebook: https://www.facebook.com/

@@ -4,7 +4,7 @@ description: "meta description"
 date: 2022-04-02T05:00:00Z
 image: "/images/posts/02.jpg"
 categories: ["development"]
-authors: ["John Doe"]
+authors: ["John Lee"]
 tags: ["diy", "toy"]
 draft: false
 ---
