@@ -7,6 +7,8 @@
 
   img {
     @apply inline-block;
+    max-height: 800px;
+    width: auto;
   }
 
   .shadow {
