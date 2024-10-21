@@ -1,22 +1,35 @@
 ---
-title: "How to make toys from old Olarpaper"
+title: "Comment cultiver des herbes aromatiques chez soi"
 description: "meta description"
-date: 2022-04-07T05:00:00Z
-image: "/images/posts/01.jpg"
-categories: ["art"]
+date: 2024-04-07T05:00:00Z
+image: "/images/posts/07.jpg"
+categories: ["jardinage"]
 authors: ["Max Green"]
-tags: ["diy", "toy"]
+tags: ["diy", "jardinage"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Cultiver des herbes aromatiques à la maison est une activité gratifiante et facile à mettre en place. Que tu vives en appartement ou dans une maison avec jardin, il est possible de profiter de plantes fraîches toute l'année.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+## Pourquoi cultiver des herbes chez soi ?
 
-## Creative Design
+Les herbes aromatiques comme le basilic, la menthe ou le persil sont non seulement délicieuses, mais elles ajoutent aussi une touche de verdure à ton intérieur. De plus, tu pourras cueillir des feuilles fraîches pour tes plats sans quitter ta cuisine.
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+## Les herbes à cultiver
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Voici quelques herbes faciles à cultiver chez soi :
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+- **Basilic** : Parfait pour des plats italiens.
+- **Menthe** : Idéale pour des boissons rafraîchissantes.
+- **Thym** : Excellent pour les soupes et ragoûts.
+- **Coriandre** : Parfait pour les plats asiatiques et mexicains.
+
+## Conseils pour un jardin réussi
+
+1. **Choisis un bon emplacement** : Place tes pots d'herbes dans un endroit lumineux, près d'une fenêtre par exemple.
+2. **Arrosage modéré** : Les herbes n'aiment pas avoir les racines constamment humides, arrose-les seulement quand le sol est sec.
+3. **Récolte régulière** : Cueille régulièrement les feuilles pour favoriser la croissance de nouvelles pousses.
+
+> "Cultiver tes propres herbes, c'est un pas vers une alimentation plus saine et durable."
+
+Avec un peu de soin, tu auras toujours des herbes fraîches à portée de main pour sublimer tes recettes !
