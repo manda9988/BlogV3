@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Blog.",
-    "base_url": "https://bookworm-light-astro.vercel.app",
+    "base_url": "",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/b3.png",
