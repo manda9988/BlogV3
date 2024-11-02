@@ -1,7 +1,7 @@
 
-# BlogV3
+# Blog
 
-**BlogV3** est un projet de blog statique construit avec Astro, Tailwind CSS, React et Tailwind Bootstrap Grid.
+**Blog** est un projet de blog statique construit avec Astro, Tailwind CSS, React et Tailwind Bootstrap Grid.
 
 ## Fonctionnalités
 
